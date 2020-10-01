@@ -1,0 +1,13 @@
+@import "node_modules/bulma/sass/utilities/initial-variables";
+@import "node_modules/bulma/sass/utilities/functions";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway+Dots&family=Raleway:wght@400&display=swap');
+
+$family-primary: "Playfair Display", serif;
+$family-secondary: 'Raleway', sans-serif;
+
+$spacing-values: ("small": 10px, "medium": 30px, "large": 60px);
+
+@import "node_modules/bulma/bulma";
+@import "node_modules/buefy/src/scss/buefy";
