@@ -21,14 +21,6 @@
                     A MSc in bioelectronics with a strong scientific background and significant entrepreneur experience. Founded a tech company and developed end-to-end projects implementing innovative technologies into both new and old processes exceeding clients expectations. Associate professor of biomedical instrumentation and mentor of research projects in an academic institution. Passionate about research and technological innovation.
                 </p>
             </div>
-            <div class="mt-large container">
-                <h1 class="title is-size-2">
-                    What have I done?
-                </h1>
-                <p class="is-family-secondary">
-                    A MSc in bioelectronics with a strong scientific background and significant entrepreneur experience. Founded a tech company and developed end-to-end projects implementing innovative technologies into both new and old processes exceeding clients expectations. Associate professor of biomedical instrumentation and mentor of research projects in an academic institution. Passionate about research and technological innovation.
-                </p>
-            </div>
         </section>
     </div>
 </template>
