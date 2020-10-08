@@ -80,6 +80,13 @@
                 >
                     jlopez@lasallistas.org.mx
                 </a>
+                |
+                <a
+                    href="mailto:juan@vitenskap.tech"
+                    class="has-text-dark"
+                >
+                    juan@vitenskap.tech
+                </a>
             </div>
         </footer>
     </div>
