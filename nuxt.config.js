@@ -30,6 +30,10 @@ export default {
                 {
                     set: '@fortawesome/free-solid-svg-icons',
                     icons: ['fas']
+                },
+                {
+                    set: '@fortawesome/free-brands-svg-icons',
+                    icons: ['fab']
                 }
             ]
         }]
@@ -40,7 +44,13 @@ export default {
         */
         // eslint-disable-next-line @typescript-eslint/no-unused-vars
         extend (config, ctx) {
-            '@nuxtjs/eslint-config-typescript'
+            // Find the rule which contains a assets file extension
+            const assetsLoader = config.module.rules.find(rule => rule.test.test('.png'))
+
+            // Overwrite the test regex and add `pdf`
+            assetsLoader.test = /\.(png|jpe?g|gif|svg|webp|pdf)$/i
+
+            return config
         },
         hotMiddleware: {
             client: {

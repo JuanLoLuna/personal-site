@@ -7,7 +7,15 @@
 $family-primary: "Playfair Display", serif;
 $family-secondary: 'Raleway', sans-serif;
 
+$dark: #092532;
+
 $spacing-values: ("small": 10px, "medium": 30px, "large": 60px);
+
+$navbar-background-color: transparent;
+
+$dimensions: 16 24 32 48 64 82 96 128 192 256 512 1024;
 
 @import "node_modules/bulma/bulma";
 @import "node_modules/buefy/src/scss/buefy";
+@import '~bulma-divider';
+@import '~bulma-timeline';
