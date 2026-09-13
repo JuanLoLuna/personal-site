@@ -75,7 +75,7 @@
                         Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional - CINVESTAV
                     </h1>
                     <p class="is-family-secondary has-text-grey">
-                        I obtained a MSc in Electrical Engineering with specialty in Bioelectronics degree, achieving a GPA of 9.3 (Maximum 10) being the 2nd highest. My research subject was the optimization of the delivered energy by a double slot applicator for breast cancer treatment through microwave ablation: modeling by FEM, phantom characterization, validation of the models in phantoms, in vitro and in vivo experimentation.
+                        I obtained an MS in Electrical Engineering with specialty in Bioelectronics degree, achieving a GPA of 9.3 (Maximum 10) being the 2nd highest. My research subject was the optimization of the delivered energy by a double slot applicator for breast cancer treatment through microwave ablation: modeling by FEM, phantom characterization, validation of the models in phantoms, in vitro and in vivo experimentation.
                     </p>
                 </div>
             </div>
