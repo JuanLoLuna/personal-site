@@ -126,9 +126,9 @@
                         </p>
                         <p class="project-affiliation">
                             Doctoral research co-advised by
-                            <a href="https://www.med.upenn.edu/pesaran-lab/" target="_blank" rel="noopener noreferrer">Bijan Pesaran</a>
+                            <a href="https://www.med.upenn.edu/pesaran-lab/" target="_blank" rel="noopener noreferrer">Dr. Bijan Pesaran</a>
                             and
-                            <a href="https://vitalelab.med.upenn.edu/" target="_blank" rel="noopener noreferrer">Flavia Vitale</a>.
+                            <a href="https://vitalelab.med.upenn.edu/" target="_blank" rel="noopener noreferrer">Dr. Flavia Vitale</a>.
                         </p>
 
                         <div class="related-outputs">
